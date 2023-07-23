@@ -8,9 +8,7 @@ Resource
 
 Final-Code: https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code
 
-Starter-file: https://github.com/daulathussain/nfts-api-starter-file
-
-Figma FIle: https://www.figma.com/file/l21RUwniRe5qXFFLKh8OKI/NFTs-API-Provide?type=design&node-id=0%3A1&t=1MRe9Mzga5kqaW8S-1
+Starter-file: [https://github.com/daulathussain/nfts-api-starter-file](https://github.com/daulathussain/chat-dapp-starter-file)
 
 Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
 
