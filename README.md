@@ -19,7 +19,7 @@ Kindly follow the following Instructions to run the project in your system and i
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code)
 
 #### Setup Video
-- [Final Code Setup video](https://youtu.be/VI2DW5Ttupg?si=-ZyXK842Gionh1Xy)
+- [Final Code Setup video](https://youtu.be/lURReDp5CR8?si=coLXYfZ0DL7GSihk)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
